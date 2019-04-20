@@ -1,0 +1,172 @@
+{
+        "Users":[
+                {
+  "name": "John",
+  "surname": "Doe",
+  "gender": "male",
+  "region": "United States",
+  "age": 29,
+  "title": "mr",
+  "phone": "(123) 555 1234",
+  "birthday":"19/06/1987",
+  "email": "john.doe@example.com",
+  "password": "Doe87",
+  "createdID": "dg2ht",
+  "goingeventID": "null",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Jasminne",
+  "surname": "Hell",
+  "gender": "female",
+  "region": "United States",
+  "age": 25,
+  "title": "mrs",
+  "phone": "(123) 555 7890",
+  "birthday":"19/06/1994",
+  "email": "Jasmine.hell@example.com",
+  "password": "jasmine",
+"goingeventID": "dg2ht",
+    "createdID": "null",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Richard",
+  "surname": "Green",
+  "gender": "male",
+  "region": "Canada",
+  "age": 54,
+  "title": "mr",
+  "phone": "(234) 555 6852",
+  "birthday":"19/06/1964",
+  "email": "Richard.green@example.com",
+  "password": "green123",
+  "goingeventID": "null",
+    "createdID": "2v5e",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Merry",
+  "surname": "tylor",
+  "gender": "female",
+  "region": "England",
+  "age": 30,
+  "title": "mrs",
+  "phone": "(521) 555 5679",
+  "birthday":"19/06/1987",
+  "email": "Merry.tylor@example.com",
+  "password": "tylor13",
+  "goingeventID": "2v5e",
+    "createdID": "null",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Chiu",
+  "surname": "Thung",
+  "gender": "male",
+  "region": "China",
+  "age": 44,
+  "title": "mr",
+  "phone": "(643) 555 51235",
+  "birthday":"19/06/1975",
+  "email": "Chiu.Thung@example.com",
+  "password": "Thung12",
+  "goingeventID": "2v5e",
+    "createdID": "null",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Jadranka",
+  "surname": "Dimov",
+  "gender": "female",
+  "region": "Russia",
+  "age": 24,
+  "title": "mrs",
+  "phone": "(521) 555 5679",
+  "birthday":"19/06/1994",
+  "email": "Jadranka.Dimov@example.com",
+  "password": "Jadranka",
+  "goingeventID": "null",
+    "createdID": "null",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+},
+                {
+  "name": "Gomez",
+  "surname": "Fernandez",
+  "gender": "Male",
+  "region": "Peru",
+  "age": 28,
+  "title": "mrs",
+  "phone": "(512) 555 123",
+  "birthday":"19/06/1987",
+  "email": "Gomez.Gomez@example.com",
+  "password": "Gomez123",
+  "goingeventID": "null",
+    "createdID": "ve125",
+  "photo": "https://uinames.com/api/photos/male/1.jpg"
+}
+        ],
+
+        "Events":[
+            {
+                "eventname":"",
+                "eventDiscription":"",
+                "BeginingTime":"",
+                "EndingTime":"",
+                "Location":"",
+                "Members":[
+                    
+                ],
+                "OpenPosition":"",
+                "eventID":""
+            },
+            {
+                "eventname":"",
+                "eventDiscription":"",
+                "BeginingTime":"",
+                "EndingTime":"",
+                "Location":"",
+                "Members":[
+                    
+                ],
+                "OpenPosition":"",
+                "eventID":""
+            },
+            {
+                "eventname":"",
+                "eventDiscription":"",
+                "BeginingTime":"",
+                "EndingTime":"",
+                "Location":"",
+                "Members":[
+                    
+                ],
+                "OpenPosition":"",
+                "eventID":""
+            },
+            {
+                "eventname":"",
+                "eventDiscription":"",
+                "BeginingTime":"",
+                "EndingTime":"",
+                "Location":"",
+                "Members":[
+                    
+                ],
+                "OpenPosition":"",
+                "eventID":""
+            },
+            {
+                "eventname":"",
+                "eventDiscription":"",
+                "BeginingTime":"",
+                "EndingTime":"",
+                "Location":"",
+                "Members":[
+                    
+                ],
+                "OpenPosition":"",
+                "eventID":""
+            }
+        ]
+    }
