@@ -8,7 +8,8 @@
           "email": "john.doe@example.com",
           "password": "Doe87",
           "createdID": "dg2ht",
-          "goingeventID": "null"
+          "goingeventID": "null",
+          "region":"USA"
 
       },
       {
@@ -20,7 +21,8 @@
           "email": "Jasmine.hell@example.com",
           "password": "jasmine",
           "goingeventID": "dg2ht",
-          "createdID": "null"
+          "createdID": "null",
+          "region":"USA"
 
       },
       {
@@ -32,7 +34,8 @@
           "email": "Richard.green@example.com",
           "password": "green123",
           "goingeventID": "null",
-          "createdID": "2v5e"
+          "createdID": "2v5e",
+          "region":"USA"
 
       },
       {
@@ -44,7 +47,8 @@
           "email": "Merry.tylor@example.com",
           "password": "tylor13",
           "goingeventID": "2v5e",
-          "createdID": "null"
+          "createdID": "null",
+          "region":"USA"
 
       },
       {
@@ -56,7 +60,8 @@
           "email": "Chiu.Thung@example.com",
           "password": "Thung12",
           "goingeventID": "2v5e",
-          "createdID": "null"
+          "createdID": "null",
+          "region":"USA"
 
       },
       {
@@ -68,7 +73,8 @@
           "email": "Jadranka.Dimov@example.com",
           "password": "Jadranka",
           "goingeventID": "null",
-          "createdID": "null"
+          "createdID": "null",
+          "region":""
 
       },
       {
@@ -80,7 +86,8 @@
           "email": "Gomez.Gomez@example.com",
           "password": "Gomez123",
           "goingeventID": "null",
-          "createdID": "ve125"
+          "createdID": "ve125",
+          "region":null
 
       }
   ],
