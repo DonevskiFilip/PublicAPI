@@ -1,6 +1,6 @@
 {
   "Users": [{
-          "name": "John",
+          "firstName": "John",
           "lastName": "Doe",
           "gender": "male",
           "phone": "(123) 555 1234",
@@ -13,7 +13,7 @@
 
       },
       {
-          "name": "Jasminne",
+          "firstName": "Jasminne",
           "lastName": "Hell",
           "gender": "female",
           "phone": "(123) 555 7890",
@@ -26,7 +26,7 @@
 
       },
       {
-          "name": "Richard",
+          "firstName": "Richard",
           "lastName": "Green",
           "gender": "male",
           "phone": "(234) 555 6852",
@@ -39,7 +39,7 @@
 
       },
       {
-          "name": "Merry",
+          "firstName": "Merry",
           "lastName": "tylor",
           "gender": "female",
           "phone": "(521) 555 5679",
@@ -52,7 +52,7 @@
 
       },
       {
-          "name": "Chiu",
+          "firstName": "Chiu",
           "lastName": "Thung",
           "gender": "male",
           "phone": "(643) 555 51235",
@@ -65,7 +65,7 @@
 
       },
       {
-          "name": "Jadranka",
+          "firstName": "Jadranka",
           "lastName": "Dimov",
           "gender": "female",
           "phone": "(521) 555 5679",
@@ -78,7 +78,7 @@
 
       },
       {
-          "name": "Gomez",
+          "firstName": "Gomez",
           "lastName": "Fernandez",
           "gender": "Male",
           "phone": "(512) 555 123",
