@@ -1,7 +1,7 @@
 {
   "Users": [{
           "name": "John",
-          "surname": "Doe",
+          "lastName": "Doe",
           "gender": "male",
           "phone": "(123) 555 1234",
           "birthday": "19/06/1987",
@@ -13,7 +13,7 @@
       },
       {
           "name": "Jasminne",
-          "surname": "Hell",
+          "lastName": "Hell",
           "gender": "female",
           "phone": "(123) 555 7890",
           "birthday": "19/06/1994",
@@ -25,7 +25,7 @@
       },
       {
           "name": "Richard",
-          "surname": "Green",
+          "lastName": "Green",
           "gender": "male",
           "phone": "(234) 555 6852",
           "birthday": "19/06/1964",
@@ -37,7 +37,7 @@
       },
       {
           "name": "Merry",
-          "surname": "tylor",
+          "lastName": "tylor",
           "gender": "female",
           "phone": "(521) 555 5679",
           "birthday": "19/06/1987",
@@ -49,7 +49,7 @@
       },
       {
           "name": "Chiu",
-          "surname": "Thung",
+          "lastName": "Thung",
           "gender": "male",
           "phone": "(643) 555 51235",
           "birthday": "19/06/1975",
@@ -61,7 +61,7 @@
       },
       {
           "name": "Jadranka",
-          "surname": "Dimov",
+          "lastName": "Dimov",
           "gender": "female",
           "phone": "(521) 555 5679",
           "birthday": "19/06/1994",
@@ -73,7 +73,7 @@
       },
       {
           "name": "Gomez",
-          "surname": "Fernandez",
+          "lastName": "Fernandez",
           "gender": "Male",
           "phone": "(512) 555 123",
           "birthday": "19/06/1987",
