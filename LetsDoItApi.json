@@ -22,8 +22,8 @@
       "birthday": "19/06/1994",
       "email": "Jasmine.hell@example.com",
       "password": "jasmine",
-      "goingeventID": "dg2ht",
-      "createdID": "null",
+      "goingeventID": "0x223a",
+      "createdID": "0000",
       "region": "USA"
     },
     {
@@ -104,13 +104,13 @@
       "eventID": "0x223a"
     },
     {
-      "eventname": "",
-      "eventDiscription": "",
-      "BeginingDate": "",
-      "EndingDate": "",
-      "Location": "",
-      "OpenPosition": "",
-      "eventID": ""
+      "eventname": "Hill Of Rock",
+      "eventDiscription": "Music Festival",
+      "BeginingDate": "29-07-2019",
+      "EndingDate": "02-08-2019",
+      "Location": "Bulbaria",
+      "OpenPosition": "3",
+      "eventID": "0000"
     },
     {
       "eventname": "",
