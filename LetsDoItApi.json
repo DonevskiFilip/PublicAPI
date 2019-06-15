@@ -35,8 +35,8 @@
       "birthday": "19/06/1964",
       "email": "Richard.green@example.com",
       "password": "green123",
-      "goingeventID": "null",
-      "createdID": "2v5e",
+      "goingeventID": null,
+      "createdID": null,
       "region": "USA"
     },
     {
