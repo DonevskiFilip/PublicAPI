@@ -35,7 +35,7 @@
       "birthday": "19/06/1964",
       "email": "Richard.green@example.com",
       "password": "green123",
-      "goingeventID": null,
+      "goingeventID": "1111",
       "createdID": null,
       "region": "USA"
     },
@@ -62,7 +62,7 @@
       "email": "Chiu.Thung@example.com",
       "password": "Thung12",
       "goingeventID": "2v5e",
-      "createdID": "null",
+      "createdID": "1111",
       "region": "USA"
     },
     {
@@ -90,6 +90,19 @@
       "goingeventID": "null",
       "createdID": "ve125",
       "region": null
+    },   
+     {
+      "profilePhoto": "https://skopje1.mk/wp-content/uploads/2019/02/avalon.jpg",
+      "firstName": "Avalon",
+      "lastName": "Production",
+      "gender": null,
+      "phone": "(512) 555 123",
+      "birthday": null,
+      "email": "avolon@example.com",
+      "password": "avolon",
+      "goingeventID": "null",
+      "createdID": "1111",
+      "region": "Macedonia"
     }
   ],
   "Events": [
@@ -113,14 +126,14 @@
       "eventID": "0000"
     },
     {
-      "eventname": "",
-      "eventDiscription": "",
-      "BeginingDate": "",
-      "EndingDate": "",
-      "Location": "",
-      "Departure": "",
-      "OpenPosition": "",
-      "eventID": ""
+      "eventname": "Skopje Open Air Festival",
+      "eventDiscription": "For first time in skopje is happening festival with this kind of line-up and so much things to do. We will have playroom with competition in FIFA 19 , NBA2k19 and other games then it will be movie room, dodgeball contest , ping pong , street-basket. We will update you for the line-up bands and musicians",
+      "BeginingDate": "25-10-2019",
+      "EndingDate": "28-10-2019",
+      "Location": "Skopje",
+      "Departure": "Skopje",
+      "OpenPosition": "14523",
+      "eventID": "1111"
     },
     {
       "eventname": "",
