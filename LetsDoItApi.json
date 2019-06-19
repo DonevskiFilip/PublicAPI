@@ -1,81 +1,107 @@
 {
   "Users": [
     {
-      "name": "John",
-      "surname": "Doe",
+      "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHPsgW3VOR2pCSbXI3JTIZqeWkM2JOnC5CfTkpaNRWYwtUt8c",
+      "firstName": "John",
+      "lastName": "Doe",
       "gender": "male",
-      "phone": "(123) 555 1234",
       "birthday": "19/06/1987",
       "email": "john.doe@example.com",
       "password": "Doe87",
       "createdID": "dg2ht",
-      "goingeventID": "null"
+      "goingeventID": "null",
+      "region": "USA"
     },
     {
-      "name": "Jasminne",
-      "surname": "Hell",
+      "profilePhoto": "",
+      "firstName": "Jasminne",
+      "lastName": "Hell",
       "gender": "female",
       "phone": "(123) 555 7890",
       "birthday": "19/06/1994",
       "email": "Jasmine.hell@example.com",
       "password": "jasmine",
-      "goingeventID": "dg2ht",
-      "createdID": "null"
+      "goingeventID": "0x223a",
+      "createdID": "0000",
+      "region": "USA"
     },
     {
-      "name": "Richard",
-      "surname": "Green",
+      "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFj7rHFspTgpqtWRV5r5f4zl-F1Z5SlrWR3idWFJmcK2e-1l3CA",
+      "firstName": "Richard",
+      "lastName": "Green",
       "gender": "male",
       "phone": "(234) 555 6852",
       "birthday": "19/06/1964",
       "email": "Richard.green@example.com",
       "password": "green123",
-      "goingeventID": "null",
-      "createdID": "2v5e"
+      "goingeventID": "1111",
+      "createdID": null,
+      "region": "USA"
     },
     {
-      "name": "Merry",
-      "surname": "tylor",
+      "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwZUGpJX3kcQhKpPIDKAwWpqrIcQ1hWI9vKeGkP3BD6oCadxf",
+      "firstName": "Merry",
+      "lastName": "tylor",
       "gender": "female",
       "phone": "(521) 555 5679",
       "birthday": "19/06/1987",
       "email": "Merry.tylor@example.com",
       "password": "tylor13",
       "goingeventID": "2v5e",
-      "createdID": "null"
+      "createdID": "null",
+      "region": "USA"
     },
     {
-      "name": "Chiu",
-      "surname": "Thung",
+      "profilePhoto": "http://img2.chinadaily.com.cn/images/201810/22/5bcd03c0a310eff36901eb6c.jpeg",
+      "firstName": "Chiu",
+      "lastName": "Thung",
       "gender": "male",
       "phone": "(643) 555 51235",
       "birthday": "19/06/1975",
       "email": "Chiu.Thung@example.com",
       "password": "Thung12",
       "goingeventID": "2v5e",
-      "createdID": "null"
+      "createdID": "1111",
+      "region": "USA"
     },
     {
-      "name": "Jadranka",
-      "surname": "Dimov",
+      "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oo4Y_L32aQQkEY9pzy8U21TP-1AmM3bvxHS2bx-lRVQxq0Fk",
+      "firstName": "Jadranka",
+      "lastName": "Dimov",
       "gender": "female",
       "phone": "(521) 555 5679",
       "birthday": "19/06/1994",
       "email": "Jadranka.Dimov@example.com",
       "password": "Jadranka",
       "goingeventID": "null",
-      "createdID": "null"
+      "createdID": "0x223a",
+      "region": "Kumanovo"
     },
     {
-      "name": "Gomez",
-      "surname": "Fernandez",
+      "profilePhoto": "https://vignette.wikia.nocookie.net/survivor-story/images/d/d2/Brett_Harbison.jpeg/revision/latest?cb=20170103193944",
+      "firstName": "Gomez",
+      "lastName": "Fernandez",
       "gender": "Male",
       "phone": "(512) 555 123",
       "birthday": "19/06/1987",
       "email": "Gomez.Gomez@example.com",
       "password": "Gomez123",
       "goingeventID": "null",
-      "createdID": "ve125"
+      "createdID": "ve125",
+      "region": null
+    },   
+     {
+      "profilePhoto": "https://skopje1.mk/wp-content/uploads/2019/02/avalon.jpg",
+      "firstName": "Avalon",
+      "lastName": "Production",
+      "gender": null,
+      "phone": "(512) 555 123",
+      "birthday": null,
+      "email": "avolon@example.com",
+      "password": "avolon",
+      "goingeventID": "null",
+      "createdID": "1111",
+      "region": "Macedonia"
     }
   ],
   "Events": [
