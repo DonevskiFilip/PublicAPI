@@ -9,7 +9,7 @@
       "email": "john.doe@example.com",
       "password": "Doe87",
       "createdID": "dg2ht",
-      "goingeventID": "null",
+      "goingeventID": "1111",
       "region": "USA"
     },
     {
@@ -47,8 +47,8 @@
       "birthday": "19/06/1987",
       "email": "Merry.tylor@example.com",
       "password": "tylor13",
-      "goingeventID": "2v5e",
-      "createdID": "null",
+      "goingeventID": "1111",
+      "createdID": "1111",
       "region": "USA"
     },
     {
@@ -86,7 +86,7 @@
       "birthday": "19/06/1987",
       "email": "Gomez.Gomez@example.com",
       "password": "Gomez123",
-      "goingeventID": "null",
+      "goingeventID": "1111",
       "createdID": "ve125",
       "region": null
     },   
