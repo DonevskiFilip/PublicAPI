@@ -89,8 +89,8 @@
       "goingeventID": "1111",
       "createdID": "ve125",
       "region": null
-    },   
-     {
+    },
+    {
       "profilePhoto": "https://skopje1.mk/wp-content/uploads/2019/02/avalon.jpg",
       "firstName": "Avalon",
       "lastName": "Production",
@@ -113,7 +113,9 @@
       "eventLocation": "Greece",
       "departureLocation": "50 Divizija br.6",
       "eventSpots": "4",
-      "eventID": "0x223a"
+      "eventID": "0x223a",
+      "dateOfCreation": "2019-15-05",
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Hill Of Rock",
@@ -123,7 +125,9 @@
       "eventLocation": "Bulbaria",
       "departureLocation": "50 Divizija br.6",
       "eventSpots": "3",
-      "eventID": "0000"
+      "eventID": "0000",
+      "dateOfCreation": "2019-15-05",
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Skopje Open Air Festival",
@@ -133,7 +137,9 @@
       "eventLocation": "Skopje",
       "departureLocation": "Skopje",
       "eventSpots": "14523",
-      "eventID": "1111"
+      "eventID": "1111",
+      "dateOfCreation": "2019-15-05",
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Hiking on Galicica",
@@ -143,7 +149,9 @@
       "eventLocation": "Mountain Galicica",
       "departureLocation": "Skopje Train Station",
       "eventSpots": "52",
-      "eventID": "faa351x"
+      "eventID": "faa351x",
+      "dateOfCreation": "2019-22-01",
+      "timeOFCreation": "04:22:45"
     },
     {
       "eventName": "Running Hills on Vodno",
@@ -153,7 +161,9 @@
       "eventLocation": "Vodno",
       "departureLocation": "General Hospital",
       "eventSpots": "99",
-      "eventID": "saf@41s"
+      "eventID": "saf@41s",
+      "dateOfCreation": "2019-01-03",
+      "timeOFCreation": "18:14:45"
     }
   ]
 }
