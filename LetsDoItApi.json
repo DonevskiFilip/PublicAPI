@@ -1,6 +1,7 @@
 {
   "Users": [
     {
+      "userId": "aasd3",
       "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTTHPsgW3VOR2pCSbXI3JTIZqeWkM2JOnC5CfTkpaNRWYwtUt8c",
       "firstName": "John",
       "lastName": "Doe",
@@ -13,6 +14,7 @@
       "region": "USA"
     },
     {
+      "userId": "bd123",
       "profilePhoto": "",
       "firstName": "Jasminne",
       "lastName": "Hell",
@@ -26,6 +28,7 @@
       "region": "USA"
     },
     {
+      "userId": "as1f3",
       "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFj7rHFspTgpqtWRV5r5f4zl-F1Z5SlrWR3idWFJmcK2e-1l3CA",
       "firstName": "Richard",
       "lastName": "Green",
@@ -39,6 +42,7 @@
       "region": "USA"
     },
     {
+      "userId": "as123",
       "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwZUGpJX3kcQhKpPIDKAwWpqrIcQ1hWI9vKeGkP3BD6oCadxf",
       "firstName": "Merry",
       "lastName": "tylor",
@@ -47,11 +51,12 @@
       "birthday": "19/06/1987",
       "email": "Merry.tylor@example.com",
       "password": "tylor13",
-      "goingeventID": "1111",
+      "goingeventID": null,
       "createdID": "1111",
       "region": "USA"
     },
     {
+      "userId": "aswef",
       "profilePhoto": "http://img2.chinadaily.com.cn/images/201810/22/5bcd03c0a310eff36901eb6c.jpeg",
       "firstName": "Chiu",
       "lastName": "Thung",
@@ -65,6 +70,7 @@
       "region": "USA"
     },
     {
+      "userId": "abgf3",
       "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oo4Y_L32aQQkEY9pzy8U21TP-1AmM3bvxHS2bx-lRVQxq0Fk",
       "firstName": "Jadranka",
       "lastName": "Dimov",
@@ -78,6 +84,7 @@
       "region": "Kumanovo"
     },
     {
+      "userId": "qwes3",
       "profilePhoto": "https://vignette.wikia.nocookie.net/survivor-story/images/d/d2/Brett_Harbison.jpeg/revision/latest?cb=20170103193944",
       "firstName": "Gomez",
       "lastName": "Fernandez",
@@ -91,6 +98,7 @@
       "region": null
     },
     {
+      "userId": "aser3",
       "profilePhoto": "https://skopje1.mk/wp-content/uploads/2019/02/avalon.jpg",
       "firstName": "Avalon",
       "lastName": "Production",
