@@ -66,7 +66,7 @@
       "email": "Chiu.Thung@example.com",
       "password": "Thung12",
       "goingeventID": "2v5e",
-      "createdID": "null",
+      "createdID": null,
       "region": "USA"
     },
     {
@@ -79,7 +79,7 @@
       "birthday": "19/06/1994",
       "email": "Jadranka.Dimov@example.com",
       "password": "Jadranka",
-      "goingeventID": "null",
+      "goingeventID": null,
       "createdID": "0x223a",
       "region": "Kumanovo"
     },
@@ -107,7 +107,7 @@
       "birthday": null,
       "email": "avolon@example.com",
       "password": "avolon",
-      "goingeventID": "null",
+      "goingeventID": null,
       "createdID": "1111",
       "region": "Macedonia"
     }
@@ -123,8 +123,7 @@
       "eventSpots": "4",
       "eventID": "0x223a",
       "dateOfCreation": "2019-07-05",
-      "timeOFCreation": "23:14:45",
-      "eventCreator": "Jadranka Dimov"
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Hill Of Rock",
@@ -136,8 +135,7 @@
       "eventSpots": "3",
       "eventID": "0000",
       "dateOfCreation": "2019-06-05",
-      "timeOFCreation": "23:14:45",
-      "eventCreator": "Gomez Fernandez"
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Skopje Open Air Festival",
@@ -149,8 +147,7 @@
       "eventSpots": "14523",
       "eventID": "1111",
       "dateOfCreation": "2019-05-05",
-      "timeOFCreation": "23:14:45",
-      "eventCreator": "Avalon Produkcija"
+      "timeOFCreation": "23:14:45"
     },
     {
       "eventName": "Hiking on Galicica",
@@ -162,8 +159,7 @@
       "eventSpots": "52",
       "eventID": "2v5e",
       "dateOfCreation": "2019-04-11",
-      "timeOFCreation": "04:22:45",
-      "eventCreator": "Chiu Thung"
+      "timeOFCreation": "04:22:45"
     },
     {
       "eventName": "Running Hills on Vodno",
@@ -175,8 +171,7 @@
       "eventSpots": "99",
       "eventID": "saf@41s",
       "dateOfCreation": "2019-06-21",
-      "timeOFCreation": "18:14:45",
-      "eventCreator": "Jadranka Dimov"
+      "timeOFCreation": "18:14:45"
     }
   ]
 }
