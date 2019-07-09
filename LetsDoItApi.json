@@ -24,7 +24,7 @@
         "email": "Jasmine.hell@example.com",
         "password": "jasmine",
         "goingeventID": "0x223a",
-        "createdID": "0000",
+        "createdID": null,
         "region": "USA"
       },
       {
@@ -32,12 +32,12 @@
         "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcShFj7rHFspTgpqtWRV5r5f4zl-F1Z5SlrWR3idWFJmcK2e-1l3CA",
         "firstName": "Richard",
         "lastName": "Green",
-        "gender": "male",
+        "gender": "Male",
         "phone": "(234) 555 6852",
         "birthday": "19/06/1964",
         "email": "Richard.green@example.com",
         "password": "green123",
-        "goingeventID": "1111",
+        "goingeventID": null,
         "createdID": null,
         "region": "USA"
       },
@@ -45,14 +45,14 @@
         "userId": "as123",
         "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQCwZUGpJX3kcQhKpPIDKAwWpqrIcQ1hWI9vKeGkP3BD6oCadxf",
         "firstName": "Merry",
-        "lastName": "tylor",
-        "gender": "female",
+        "lastName": "Tylor",
+        "gender": "Female",
         "phone": "(521) 555 5679",
         "birthday": "19/06/1987",
         "email": "Merry.tylor@example.com",
         "password": "tylor13",
-        "goingeventID": null,
-        "createdID": "fasdfv",
+        "goingeventID": "0x223a",
+        "createdID": null,
         "region": "USA"
       },
       {
@@ -60,13 +60,13 @@
         "profilePhoto": "http://img2.chinadaily.com.cn/images/201810/22/5bcd03c0a310eff36901eb6c.jpeg",
         "firstName": "Chiu",
         "lastName": "Thung",
-        "gender": "male",
+        "gender": "Male",
         "phone": "(643) 555 51235",
         "birthday": "19/06/1975",
         "email": "Chiu.Thung@example.com",
         "password": "Thung12",
-        "goingeventID": "2v5e",
-        "createdID": "null",
+        "goingeventID": null,
+        "createdID": "2v5e",
         "region": "USA"
       },
       {
@@ -74,12 +74,12 @@
         "profilePhoto": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR_oo4Y_L32aQQkEY9pzy8U21TP-1AmM3bvxHS2bx-lRVQxq0Fk",
         "firstName": "Jadranka",
         "lastName": "Dimov",
-        "gender": "female",
+        "gender": "Female",
         "phone": "(521) 555 5679",
         "birthday": "19/06/1994",
         "email": "Jadranka.Dimov@example.com",
         "password": "Jadranka",
-        "goingeventID": "null",
+        "goingeventID": "ve125",
         "createdID": "0x223a",
         "region": "Kumanovo"
       },
@@ -95,7 +95,7 @@
         "password": "Gomez123",
         "goingeventID": "1111",
         "createdID": "ve125",
-        "region": null
+        "region": "Mexico"
       },
       {
         "userId": "aser3",
@@ -107,7 +107,7 @@
         "birthday": null,
         "email": "avolon@example.com",
         "password": "avolon",
-        "goingeventID": "null",
+        "goingeventID": null,
         "createdID": "1111",
         "region": "Macedonia"
       }
@@ -134,7 +134,7 @@
         "eventLocation": "Bulbaria",
         "departureLocation": "50 Divizija br.6",
         "eventSpots": "3",
-        "eventID": "0000",
+        "eventID": "ve125",
         "dateOfCreation": "2019-06-05",
         "timeOFCreation": "23:14:45",
         "eventCreator": "Gomez Fernandez"
@@ -173,10 +173,10 @@
         "eventLocation": "Vodno",
         "departureLocation": "General Hospital",
         "eventSpots": "99",
-        "eventID": "saf@41s",
+        "eventID": "dg2ht",
         "dateOfCreation": "2019-06-21",
         "timeOFCreation": "18:14:45",
-        "eventCreator": "Jadranka Dimov"
+        "eventCreator": "John Doe"
       }
     ]
   }
